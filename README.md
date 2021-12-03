@@ -7,3 +7,14 @@ data analysis with a machine learning technique to automatically
 recognize the regime in a complex system approaching a critical
 transition. Then we will find early warning signals for critical
 transitions in the cryptocurrency markets.
+
+- Barajas Cervantes Alfonso
+- Flores Tiburcio Luis Fernando
+- Vazquez Rojas José David 
+- Yáñez Espíndola José Marcos
+
+## Links
+- [Notebook](https://www.instagram.com/)
+- [Presentacion](https://www.instagram.com/)
+- [Documentacion Tecnica](https://www.instagram.com/)
+- [Documentacion Ejecutiva](https://www.instagram.com/)
