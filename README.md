@@ -14,7 +14,7 @@ transitions in the cryptocurrency markets.
 - Yáñez Espíndola José Marcos
 
 ## Links
-- [Notebook](https://www.instagram.com/)
-- [Presentacion](https://www.instagram.com/)
-- [Documentacion Tecnica](https://www.instagram.com/)
-- [Documentacion Ejecutiva](https://www.instagram.com/)
+- [Notebook](https://github.com/myespindola/TDA-for-critical-transactions-in-cryptocurrency/blob/main/ProyectoMiner%C3%ADadeDatos.ipynb)
+- [Presentacion](https://github.com/myespindola/TDA-for-critical-transactions-in-cryptocurrency/blob/main/Presentaci%C3%B3n%20final.pdf)
+- [Documentacion Tecnica](https://github.com/myespindola/TDA-for-critical-transactions-in-cryptocurrency/blob/main/Documentaci%C3%B3n%20t%C3%A9cnica.pdf)
+- [Documentacion Ejecutiva](https://github.com/myespindola/TDA-for-critical-transactions-in-cryptocurrency/blob/main/Documentaci%C3%B3n%20ejecutiva.pdf)
