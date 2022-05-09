@@ -1,4 +1,4 @@
-# TDA for critical transactions in cryptocurrency
+# TDA for critical transitions in cryptocurrency
 
 We analyze the time series of four main
 cryptocurrencies before the digital market crash in 2017-
